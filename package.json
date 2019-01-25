@@ -1,5 +1,6 @@
 {
   "name": "tangerine-client-components",
+  "version": "0.0.0",
   "main": "tangerine-client-components.js",
   "dependencies": {
     "@polymer/paper-item": "^3.0.1",
